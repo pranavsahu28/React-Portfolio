@@ -48,51 +48,10 @@ const AllProjects = () => {
     {
       id: 6,
       src: portfolio,
-      demo: "https://rickandmorty-bydt.netlify.app/",
-      code: "https://github.com/diegotellezc/RickAndMortyApp",
+      demo: "https://react-portfolio-alpha-virid.vercel.app/",
+      code: "https://github.com/pranavsahu28/React-Portfolio.git",
     },
-    // {
-    //     id: 7,
-    //     src: todomachine,
-    //     demo: 'https://diegotellezc.github.io/toDoMachine/',
-    //     code: 'https://github.com/diegotellezc/toDoMachine'
-    // },
-    // {
-    //     id: 8,
-    //     src: crud,
-    //     demo: 'https://users-crud-bydt.netlify.app/',
-    //     code: 'https://github.com/diegotellezc/Users-CRUD'
-    // },
-    // {
-    //     id: 9,
-    //     src: moviepedia,
-    //     demo: 'https://diegotellezc.github.io/Moviepedia/',
-    //     code: 'https://github.com/diegotellezc/Moviepedia'
-    // },
-    // {
-    //     id: 10,
-    //     src: pokedex,
-    //     demo: 'https://pokedex-bydt.netlify.app/',
-    //     code: 'https://github.com/diegotellezc/pokedex'
-    // },
-    // {
-    //     id: 11,
-    //     src: tictactoe,
-    //     demo: 'https://tictactoebydt.netlify.app/',
-    //     code: 'https://github.com/diegotellezc/Tictactoebydt'
-    // },
-    // {
-    //     id: 12,
-    //     src: fortunecookies,
-    //     demo: 'https://fortunecookiesapp.netlify.app/',
-    //     code: 'https://github.com/diegotellezc/fortuneCookies'
-    // },
-    // {
-    //     id: 13,
-    //     src: soccerquotes,
-    //     demo: 'https://soccerquotes.netlify.app/',
-    //     code: 'https://github.com/diegotellezc/soccerQuotes'
-    // },
+    
   ];
 
   const handleClickDemo = (demoUrl) => {

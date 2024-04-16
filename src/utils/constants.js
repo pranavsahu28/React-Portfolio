@@ -54,8 +54,8 @@ const projects = [
       "A Porfolio for a frontend developer containing the details of the candidate and about the professional career.",
     technologies: "Reactjs, html, css, javascript",
     src: "/images/projectsImages/Screenshot 2024-04-13 095536.png",
-    demo: "https://rickandmorty-bydt.netlify.app/",
-    code: "https://github.com/diegotellezc/RickAndMortyApp",
+    demo: "https://react-portfolio-alpha-virid.vercel.app/",
+    code: "https://github.com/pranavsahu28/React-Portfolio.git",
   },
 ];
 
