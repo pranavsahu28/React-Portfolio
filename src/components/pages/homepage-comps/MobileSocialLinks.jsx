@@ -41,7 +41,7 @@ const MobileSocialLinks = () => {
                     <BsFillPersonLinesFill size={20} /> Resume 
                 </>
             ),
-            href: '/FullStack_Developer_DiegoTellez.pdf',
+            href: '/Pranav Resume F.pdf',
             style: 'rounded-br-md',
             download: true
         }
