@@ -2,7 +2,7 @@ const projects = [
   {
     id: 1,
     title: "AiBasedSaasChatBot",
-    description: "Ecommerce created with React JS and Tailwind CSS",
+    description: "THIS MERN PROJECT IS IN PROGRESS",
     technologies: "MongoDB, Expressjs, Reactjs, Nodejs",
     src: "/images/projectsImages/AiBasedSaasChatBot.webp",
     
